@@ -1,2 +1,2 @@
 # D3-Project
-Create an interactive scatterplot using D3.js.
+Create an interactive scatter plot using D3.js.
